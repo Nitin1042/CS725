@@ -12,8 +12,9 @@ For a given input we also extract the features, project onto the feature space a
 
 We use the follwing distance measures:
 
-Euclidean Distance
-Manhattan Distance
-Cosine Distance
-Dynamic Time Warping
+  1. Euclidean Distance
+  2. Manhattan Distance
+  3. Cosine Distance
+  4. Dynamic Time Warping
+
 Once we measure all the distances, we give 5 songs for each distance measure whose distnaces are the lowest.
